@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sb-naam-hain-humara",
+      "name": "Soumyabrata Bairagi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58905012?v=4",
+      "profile": "https://github.com/sb-naam-hain-humara",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "DSA-for-College",
+  "projectOwner": "sb2356-iiitr",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
